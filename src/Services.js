@@ -21,7 +21,7 @@ class Services extends Component {
                         <i className="fas fa-shopping-cart"></i>
                             <h4>Ecommerce Website</h4>
                             <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                               I build ecommerce websites using MERN Stack and Python's Django.
                             </p>
                         </div>
                     </div>
@@ -33,7 +33,7 @@ class Services extends Component {
                         <i className="fas fa-mobile-alt"></i>
                             <h4>Mobile App Development</h4>
                             <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                I build cross platform Mobile apps using React Native and Flutter.
                             </p>
                         </div>
                     </div>
@@ -45,7 +45,7 @@ class Services extends Component {
                         <i className="fas fa-code"></i>
                             <h4>Web App Development</h4>
                             <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                               I build web apps using ReactJS, Flutter Web. 
                             </p>
                         </div>
                     </div>
@@ -57,7 +57,7 @@ class Services extends Component {
                         <i className="far fa-smile"></i>
                             <h4>UI Designing</h4>
                             <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                               I design using Adobe platforms.
                             </p>
                         </div>
                     </div>
@@ -69,7 +69,7 @@ class Services extends Component {
                         <i className="fas fa-chalkboard-teacher"></i>
                             <h4>Teaching Code</h4>
                             <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                               Hit me up to learn your desired language. 
                             </p>
                         </div>
                     </div>
@@ -81,7 +81,7 @@ class Services extends Component {
                             <i className="fas fa-headset"></i>
                             <h4>IT Support</h4>
                             <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                                Any assistance for your existing code ? Reach me for assistance.
                             </p>
                         </div>
                     </div>
