@@ -21,7 +21,7 @@ class Services extends Component {
                         <i className="fas fa-shopping-cart"></i>
                             <h4>Ecommerce Website</h4>
                             <p>
-                               I build ecommerce websites using MERN Stack and Python's Django.
+                               I build ecommerce websites using ReactJS and Django.
                             </p>
                         </div>
                     </div>
@@ -33,7 +33,7 @@ class Services extends Component {
                         <i className="fas fa-mobile-alt"></i>
                             <h4>Mobile App Development</h4>
                             <p>
-                                I build cross platform Mobile apps using React Native and Flutter.
+                                I build cross-native Mobile apps using Flutter.
                             </p>
                         </div>
                     </div>
@@ -81,7 +81,7 @@ class Services extends Component {
                             <i className="fas fa-headset"></i>
                             <h4>IT Support</h4>
                             <p>
-                                Any assistance for your existing code ? Reach me for assistance.
+                                Any assistance for your existing code ? Reach me.
                             </p>
                         </div>
                     </div>
