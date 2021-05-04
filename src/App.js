@@ -2,7 +2,8 @@ import React, { Component } from "react";
 import Projects from "./Projects";
 import SocialProfiles from "./SocialProfiles";
 import profile from "./assets/profile.jpg";
-import Services from './Services'
+import Services from "./Services";
+import Title from "./Title";
 class App extends Component {
   state = { displayBio: false };
 
@@ -16,7 +17,8 @@ class App extends Component {
           <img src={profile} alt="profile" className="profile" />
         </span>
         <h1>Hello!</h1>
-        <p>My name is Suhas Holla. I am a Freelancer. </p>
+        <p>My name is Suhas Holla. </p>
+        {this.state.displayBio ? <Title /> : null}
         <p> JavaScript | ReactJS | Flutter | Django | Python | C# </p>
         {this.state.displayBio ? (
           <div>
@@ -35,8 +37,8 @@ class App extends Component {
           </div>
         )}
         <hr />
-<Services/>
-        <hr/>
+        <Services />
+        <hr />
         <Projects />
         <hr />
         <SocialProfiles />
