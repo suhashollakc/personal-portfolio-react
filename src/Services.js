@@ -55,7 +55,7 @@ class Services extends Component {
                     <div className="col-md-4 col-sm-6 equal-height">
                         <div className="item">
                         <i className="far fa-smile"></i>
-                            <h4>UI Designing</h4>
+                            <h4>UI/Web Design</h4>
                             <p>
                                I design using Adobe platforms.
                             </p>
@@ -67,7 +67,7 @@ class Services extends Component {
                     <div className="col-md-4 col-sm-6 equal-height">
                         <div className="item">
                         <i className="fas fa-chalkboard-teacher"></i>
-                            <h4>Teaching Code</h4>
+                            <h4>Mentor</h4>
                             <p>
                                Hit me up to learn your desired language. 
                             </p>
